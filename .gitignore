@@ -1,0 +1,12 @@
+# pi agent artifacts
+.pi-subagents/
+.rpiv/
+
+# Plan files
+PLAN-*.md
+
+# Backup
+index.before-production-hardening.html
+
+# OS
+.DS_Store

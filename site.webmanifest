@@ -1,0 +1,23 @@
+{
+  "name": "Grandora Gourmet Trading",
+  "short_name": "Grandora",
+  "description": "Premium Asian food and beverage sourcing for HORECA, retail, and distribution partners in Doha, Qatar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcfbf8",
+  "theme_color": "#5c1721",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
